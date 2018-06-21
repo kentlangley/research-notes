@@ -1,8 +1,7 @@
 # research-notes
-
 ## A Collection of Notes from Various Research Topics
 
-2018
+# 2018
 
 - Tokenizing Non-Fungible Assets [[Source](https://youtu.be/rwZyD4Plguo)] [[Notes](https://github.com/kentlangley/research-notes/blob/master/Tokenizing-Non-Fungible-Assets.md)]
 
