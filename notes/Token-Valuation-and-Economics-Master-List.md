@@ -71,3 +71,4 @@
 - https://medium.com/blockchannel/cryptoeconomic-theory-game-theory-basics-fb3a49aab1a8
 - https://medium.com/cryptolab/network-value-to-metcalfe-nvm-ratio-fd59ca3add76
 - https://medium.com/ledgercapital/improvements-on-the-network-value-to-transactions-nvt-ratio-introducing-network-569569f6b3e3
+- https://hackernoon.com/digging-deeper-into-cryptoassets-data-and-visualization-resources-8a922b62d51c
