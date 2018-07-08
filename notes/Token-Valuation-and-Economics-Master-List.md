@@ -74,3 +74,4 @@
 - https://hackernoon.com/digging-deeper-into-cryptoassets-data-and-visualization-resources-8a922b62d51c
 - Community Aggregation Theory: Exploring how the valuation models fail to account for protocol commoditization, https://blog.aragon.one/community-aggregation-theory-973a283c7226
 - Evaluating Crypto Networks, https://www.tokendaily.co/blog/the-best-fundamental-indicator-new-inflows
+- Thin Protocols (an evolution of the Monegro Fat Protocols concept), https://blog.zeppelin.solutions/thin-protocols-cc872258379f
