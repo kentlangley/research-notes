@@ -76,3 +76,4 @@
 - Evaluating Crypto Networks, https://www.tokendaily.co/blog/the-best-fundamental-indicator-new-inflows
 - Thin Protocols (an evolution of the Monegro Fat Protocols concept), https://blog.zeppelin.solutions/thin-protocols-cc872258379f
 - Unchained: Why's it So Hard to Keep Stable Coins Stable (Podcast), http://unchainedpodcast.co/why-its-so-hard-to-keep-stablecoins-stable
+- Token Rights: Key Considerations In Crypto-Eeconomic Design, https://www.smithandcrown.com/token-rights/
