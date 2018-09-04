@@ -77,3 +77,6 @@
 - Thin Protocols (an evolution of the Monegro Fat Protocols concept), https://blog.zeppelin.solutions/thin-protocols-cc872258379f
 - Unchained: Why's it So Hard to Keep Stable Coins Stable (Podcast), http://unchainedpodcast.co/why-its-so-hard-to-keep-stablecoins-stable
 - Token Rights: Key Considerations In Crypto-Eeconomic Design, https://www.smithandcrown.com/token-rights/
+- Designing Multi-Token Economies, https://hackernoon.com/designing-multi-token-economies-7c7f39916e
+- Tokenomics 101, https://medium.com/singulardtv/tokenomics-101-the-emerging-field-of-token-economics-e253b9e72ba3
+- Token Curated Registry Design Patterns, https://hackernoon.com/token-curated-registry-tcr-design-patterns-4de6d18efa15
